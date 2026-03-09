@@ -8,7 +8,6 @@ def prefix(strs):
         return ""
 
     pre=strs[0]
-
     for i in strs[1:]:
         while not i.startswith(pre):
             pre=pre[:-1]

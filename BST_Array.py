@@ -20,7 +20,6 @@ def BST_Sorted(arr):
     return root
 
 # Test data
-
 arr = [-10, -3, 12, 5, 9]
 root = BST_Sorted(arr)
 

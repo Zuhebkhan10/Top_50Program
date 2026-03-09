@@ -1,7 +1,5 @@
 # Determine whether a binary tree is symmetric around its corner.
 from operator import truediv
-
-
 class Node:
     def __init__(self,val):
         self.val=val
@@ -20,8 +18,5 @@ def isSymmetric(root):
 root=Node(1)
 root.left=Node(2)
 root.right=Node(2)
-
-
-
 
 print(isSymmetric(root))
