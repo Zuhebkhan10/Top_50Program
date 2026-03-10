@@ -5,25 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5819dcd2-f91e-4344-a8d6-42da6ca2371c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Balanced-B_T.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Path_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BST_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/BST_Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/prefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symmetirc_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/symmetirc_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Climbing stairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zuhebkhan10&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Zuhebkhan10/Top_50Program.git&quot;,
+    &quot;accountId&quot;: &quot;75f9ce93-06bf-485a-bf6e-54ee28a6a53d&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3Ahf7xgT0ZbRwk0yfttWQFSPV8G" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,7 +51,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Balanced-B_T.executor": "Run",
+    "Python.Climbing stairs.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
@@ -45,6 +66,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -64,7 +86,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773049562480</updated>
-      <workItem from="1773049563526" duration="2017000" />
+      <workItem from="1773049563526" duration="2589000" />
+      <workItem from="1773133959661" duration="755000" />
+      <workItem from="1773139887564" duration="676000" />
+      <workItem from="1773140598555" duration="75000" />
+      <workItem from="1773140685673" duration="80000" />
+      <workItem from="1773140840669" duration="633000" />
     </task>
     <servers />
   </component>
@@ -83,6 +110,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Basic_programs$Balanced_B_T.coverage" NAME="Balanced-B_T Coverage Results" MODIFIED="1773072891073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Basic_programs$Balanced_B_T.coverage" NAME="Balanced-B_T Coverage Results" MODIFIED="1773072898371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Basic_programs$Climbing_stairs.coverage" NAME="Climbing stairs Coverage Results" MODIFIED="1773141498903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
