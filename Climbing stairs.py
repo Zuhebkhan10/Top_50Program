@@ -5,22 +5,16 @@
 # 1 step, or
 # 2 steps
 # Return the number of distinct ways you can climb to the top.
-
-
 def climb_stairs(n):
     if n<=2:
         return n
-
     f=1
     s=2
-
     for i in range(3,n+1):
         t=f+s
         f=s
         s=t
-
     return s
-
 steps=int(input("Enter number of stairs "))
 ways=climb_stairs(steps)
 
