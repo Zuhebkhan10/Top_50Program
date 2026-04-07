@@ -2,7 +2,7 @@ import tkinter as tk
 
 # Create window
 root = tk.Tk()
-root.title("Eid Mubarak Greeting")
+root.title("Greeting")
 root.geometry("400x250")
 root.config(bg="lightyellow")
 
@@ -13,7 +13,7 @@ def show_message():
 # Heading
 title_label = tk.Label(
     root,
-    text="Eid Greeting App",
+    text="Greeting App",
     font=("Arial", 18, "bold"),
     bg="lightyellow",
     fg="darkgreen"
@@ -38,6 +38,7 @@ label = tk.Label(
     font=("Arial", 20, "bold"),
     bg="lightyellow",
     fg="purple"
+
 )
 label.pack(pady=20)
 
